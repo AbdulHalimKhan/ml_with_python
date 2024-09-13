@@ -63,7 +63,7 @@ This repository contains Python code that accompanies each topic listed above. E
 To run the code, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/learn-machine-learning-course
+    git clone https://github.com/AbdulHalimKhan/learn-machine-learning-course
     ```
 2. Navigate to the repository folder:
     ```bash
@@ -76,7 +76,7 @@ To run the code, follow these steps:
 4. Explore the code for each topic in the respective folders.
 
 ## Prerequisites:
-- Python 3.x
+- Python 3.10
 - Basic knowledge of Python programming
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`
 
@@ -87,5 +87,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author:
-[Your Name](https://github.com/your-username)
+[Md. Abdul Halim Khan](https://github.com/AbdulHalimKhan)
 
